@@ -1,1 +1,1411 @@
+### example console output of scraping https://www.themarker.com/ ###
+### actual file output (not console output like this one) is in "outputs"" directory
+
+Scrapper running....
+Starting round 1
+Investigating: https://www.themarker.com/
+found 309 urls inside of https://www.themarker.com/
+url: https://www.themarker.com/10most is a sub url of https://www.themarker.com/, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.3829 secounds
+Finished round 1
+URL: https://www.themarker.com/, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+Starting round 2
+Investigating: https://www.themarker.com/10most
+found 97 urls inside of https://www.themarker.com/10most
+url: https://www.themarker.com/10most is a sub url of https://www.themarker.com/10most, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/10most, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/10most, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/10most, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/10most, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/10most, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.3260 secounds
+Investigating: https://www.themarker.com/misc/redemail
+found 390 urls inside of https://www.themarker.com/misc/redemail
+url: https://www.themarker.com/ is a sub url of https://www.themarker.com/misc/redemail, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/markets is a sub url of https://www.themarker.com/misc/redemail, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/realestate is a sub url of https://www.themarker.com/misc/redemail, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/technation is a sub url of https://www.themarker.com/misc/redemail, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/consumer is a sub url of https://www.themarker.com/misc/redemail, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000 is a sub url of https://www.themarker.com/misc/redemail, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000 is a sub url of https://www.themarker.com/misc/redemail, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000 is a sub url of https://www.themarker.com/misc/redemail, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000 is a sub url of https://www.themarker.com/misc/redemail, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000 is a sub url of https://www.themarker.com/misc/redemail, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/ty-tag/0000017f-da2a-d432-a77f-df3b242b0000 is a sub url of https://www.themarker.com/misc/redemail, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/markets is a sub url of https://www.themarker.com/misc/redemail, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/realestate is a sub url of https://www.themarker.com/misc/redemail, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/news is a sub url of https://www.themarker.com/misc/redemail, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/wallstreet is a sub url of https://www.themarker.com/misc/redemail, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/labels/investment is a sub url of https://www.themarker.com/misc/redemail, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000 is a sub url of https://www.themarker.com/misc/redemail, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000 is a sub url of https://www.themarker.com/misc/redemail, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 1.2549 secounds
+Investigating: https://www.themarker.com/misc/rss
+found 89 urls inside of https://www.themarker.com/misc/rss
+url: https://www.themarker.com/10most is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/srv/tm-markets is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/srv/tm-global is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/srv/tm-wallstreet is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/srv/tm-real-estate is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/srv/tm-consumer is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/srv/tm-small-business is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/srv/tm-technation is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/srv/tm-ethan-avriel is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/srv/tm-rolnik is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/srv/tm-sami-peretz is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/srv/tm-arlozorov is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/srv/tm-opinions is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/srv/tm-news is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/srv/tm-all-articles is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/misc/rss, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/misc/rss, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.2920 secounds
+Investigating: https://www.themarker.com/misc/contact-us
+found 75 urls inside of https://www.themarker.com/misc/contact-us
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/misc/contact-us, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/misc/contact-us, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/misc/contact-us, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/misc/contact-us, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/misc/contact-us, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.6220 secounds
+Investigating: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+found 9 urls inside of https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+checked url in 0.2479 secounds
+Investigating: https://www.themarker.com/misc/accessibility
+found 78 urls inside of https://www.themarker.com/misc/accessibility
+url: https://www.themarker.com/10most is a sub url of https://www.themarker.com/misc/accessibility, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/misc/accessibility, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/misc/accessibility, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/misc/accessibility, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/misc/accessibility, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/misc/accessibility, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/misc/accessibility, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.3040 secounds
+Finished round 2
+URL: https://www.themarker.com/, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/10most, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/misc/redemail, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/
+  - Internal URL: https://www.themarker.com/markets
+  - Internal URL: https://www.themarker.com/realestate
+  - Internal URL: https://www.themarker.com/technation
+  - Internal URL: https://www.themarker.com/consumer
+  - Internal URL: https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000
+  - Internal URL: https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000
+  - Internal URL: https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000
+  - Internal URL: https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000
+  - Internal URL: https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000
+  - Internal URL: https://www.themarker.com/ty-tag/0000017f-da2a-d432-a77f-df3b242b0000
+  - Internal URL: https://www.themarker.com/markets
+  - Internal URL: https://www.themarker.com/realestate
+  - Internal URL: https://www.themarker.com/news
+  - Internal URL: https://www.themarker.com/wallstreet
+  - Internal URL: https://www.themarker.com/labels/investment
+  - Internal URL: https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000
+  - Internal URL: https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000
+URL: https://www.themarker.com/misc/rss, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/srv/tm-markets
+  - Internal URL: https://www.themarker.com/srv/tm-global
+  - Internal URL: https://www.themarker.com/srv/tm-wallstreet
+  - Internal URL: https://www.themarker.com/srv/tm-real-estate
+  - Internal URL: https://www.themarker.com/srv/tm-consumer
+  - Internal URL: https://www.themarker.com/srv/tm-small-business
+  - Internal URL: https://www.themarker.com/srv/tm-technation
+  - Internal URL: https://www.themarker.com/srv/tm-ethan-avriel
+  - Internal URL: https://www.themarker.com/srv/tm-rolnik
+  - Internal URL: https://www.themarker.com/srv/tm-sami-peretz
+  - Internal URL: https://www.themarker.com/srv/tm-arlozorov
+  - Internal URL: https://www.themarker.com/srv/tm-opinions
+  - Internal URL: https://www.themarker.com/srv/tm-news
+  - Internal URL: https://www.themarker.com/srv/tm-all-articles
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/misc/contact-us, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html, Type: .html, Checked: True
+URL: https://www.themarker.com/misc/accessibility, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+Starting round 3
+Investigating: https://www.themarker.com/markets
+found 120 urls inside of https://www.themarker.com/markets
+url: https://www.themarker.com/10most is a sub url of https://www.themarker.com/markets, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/markets, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/markets, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/markets, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/markets, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/markets, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.2979 secounds
+Investigating: https://www.themarker.com/realestate
+found 120 urls inside of https://www.themarker.com/realestate
+url: https://www.themarker.com/10most is a sub url of https://www.themarker.com/realestate, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/realestate, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/realestate, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/realestate, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/realestate, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/realestate, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.3409 secounds
+Investigating: https://www.themarker.com/technation
+found 130 urls inside of https://www.themarker.com/technation
+url: https://www.themarker.com/10most is a sub url of https://www.themarker.com/technation, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/technation, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/technation, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/technation, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/technation, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/technation, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.3320 secounds
+Investigating: https://www.themarker.com/consumer
+found 98 urls inside of https://www.themarker.com/consumer
+url: https://www.themarker.com/10most is a sub url of https://www.themarker.com/consumer, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/consumer, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/consumer, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/consumer, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/consumer, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/consumer, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.3419 secounds
+Investigating: https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000
+found 105 urls inside of https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000
+url: mailto:?subject="עד שלא ירגיעו את החותים — הענף תקוע": קשיי היבוא מתחילים לגרום נזק&body=https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000 is a sub url of https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000 is a sub url of https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/ty-WRITER/00000186-4fbc-d0c2-afe6-cffc89a90000 is a sub url of https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000 is a sub url of https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000 is a sub url of https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000 is a sub url of https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/ty-WRITER/00000186-4fbc-d0c2-afe6-cffc89a90000 is a sub url of https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000 is a sub url of https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000 is a sub url of https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.3459 secounds
+Investigating: https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000
+found 102 urls inside of https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000
+url: https://www.themarker.com/ is a sub url of https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/career is a sub url of https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000 is a sub url of https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: mailto:?subject=יומיים במשרד, שאר השבוע בצבא: "סידרנו משמרות במילואים, וכך אני יכולה גם לעבוד"&body=https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000 is a sub url of https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: mailto:?subject=יומיים במשרד, שאר השבוע בצבא: "סידרנו משמרות במילואים, וכך אני יכולה גם לעבוד"&body=https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000 is a sub url of https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000 is a sub url of https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.3158 secounds
+Investigating: https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000
+found 102 urls inside of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000
+url: https://www.themarker.com/ is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/realestate is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000 is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: mailto:?subject=300 מיליון שקל לשיקום בתי המגורים בבארי: מהנדסים מספרים על היקף ההרס&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000 is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: mailto:?subject=300 מיליון שקל לשיקום בתי המגורים בבארי: מהנדסים מספרים על היקף ההרס&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000 is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000 is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.3220 secounds
+Investigating: https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000
+found 102 urls inside of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000
+url: https://www.themarker.com/ is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/realestate is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000 is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: mailto:?subject=הדסה עין כרם חתם על עסקה שתכניס לו מיליארד שקל - אבל ראש העיר מתנגד&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000 is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: mailto:?subject=הדסה עין כרם חתם על עסקה שתכניס לו מיליארד שקל - אבל ראש העיר מתנגד&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000 is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000 is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.3509 secounds
+Investigating: https://www.themarker.com/ty-tag/0000017f-da2a-d432-a77f-df3b242b0000
+found 101 urls inside of https://www.themarker.com/ty-tag/0000017f-da2a-d432-a77f-df3b242b0000
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/ty-tag/0000017f-da2a-d432-a77f-df3b242b0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/ty-tag/0000017f-da2a-d432-a77f-df3b242b0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/ty-tag/0000017f-da2a-d432-a77f-df3b242b0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/ty-tag/0000017f-da2a-d432-a77f-df3b242b0000, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/ty-tag/0000017f-da2a-d432-a77f-df3b242b0000, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 2.5629 secounds
+Investigating: https://www.themarker.com/news
+found 98 urls inside of https://www.themarker.com/news
+url: https://www.themarker.com/10most is a sub url of https://www.themarker.com/news, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/news, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/news, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/news, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/news, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/news, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.2970 secounds
+Investigating: https://www.themarker.com/wallstreet
+found 144 urls inside of https://www.themarker.com/wallstreet
+url: https://www.themarker.com/10most is a sub url of https://www.themarker.com/wallstreet, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/wallstreet, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/wallstreet, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/wallstreet, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/wallstreet, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/wallstreet, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.3119 secounds
+Investigating: https://www.themarker.com/labels/investment
+found 173 urls inside of https://www.themarker.com/labels/investment
+url: https://www.themarker.com/10most is a sub url of https://www.themarker.com/labels/investment, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/labels/investment, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/labels/investment, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/labels/investment, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/labels/investment, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/labels/investment, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.3590 secounds
+Investigating: https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000
+found 120 urls inside of https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000
+url: mailto:?subject=בילוי זוגי רומנטי: 7 רעיונות לחגיגה של אהבה&body=https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000 is a sub url of https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/labels is a sub url of https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.3590 secounds
+Investigating: https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000
+found 93 urls inside of https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000
+url: https://www.themarker.com/ is a sub url of https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/labels is a sub url of https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: mailto:?subject=עורכי דין לדיני עבודה: עושים סדר בכל הקשור למשבר הקורונה&body=https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000 is a sub url of https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: mailto:?subject=עורכי דין לדיני עבודה: עושים סדר בכל הקשור למשבר הקורונה&body=https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000 is a sub url of https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/labels is a sub url of https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.3189 secounds
+Investigating: https://www.themarker.com/srv/tm-markets
+found 0 urls inside of https://www.themarker.com/srv/tm-markets
+checked url in 0.2990 secounds
+Investigating: https://www.themarker.com/srv/tm-global
+found 0 urls inside of https://www.themarker.com/srv/tm-global
+checked url in 0.3069 secounds
+Investigating: https://www.themarker.com/srv/tm-wallstreet
+found 0 urls inside of https://www.themarker.com/srv/tm-wallstreet
+checked url in 0.3480 secounds
+Investigating: https://www.themarker.com/srv/tm-real-estate
+found 0 urls inside of https://www.themarker.com/srv/tm-real-estate
+checked url in 0.3509 secounds
+Investigating: https://www.themarker.com/srv/tm-consumer
+found 0 urls inside of https://www.themarker.com/srv/tm-consumer
+checked url in 0.3009 secounds
+Investigating: https://www.themarker.com/srv/tm-small-business
+found 0 urls inside of https://www.themarker.com/srv/tm-small-business
+checked url in 0.3070 secounds
+Investigating: https://www.themarker.com/srv/tm-technation
+found 0 urls inside of https://www.themarker.com/srv/tm-technation
+checked url in 0.3169 secounds
+Investigating: https://www.themarker.com/srv/tm-ethan-avriel
+found 0 urls inside of https://www.themarker.com/srv/tm-ethan-avriel
+checked url in 0.3060 secounds
+Investigating: https://www.themarker.com/srv/tm-rolnik
+found 0 urls inside of https://www.themarker.com/srv/tm-rolnik
+checked url in 0.3019 secounds
+Investigating: https://www.themarker.com/srv/tm-sami-peretz
+found 0 urls inside of https://www.themarker.com/srv/tm-sami-peretz
+checked url in 1.6649 secounds
+Investigating: https://www.themarker.com/srv/tm-arlozorov
+found 0 urls inside of https://www.themarker.com/srv/tm-arlozorov
+checked url in 0.3140 secounds
+Investigating: https://www.themarker.com/srv/tm-opinions
+found 0 urls inside of https://www.themarker.com/srv/tm-opinions
+checked url in 0.3229 secounds
+Investigating: https://www.themarker.com/srv/tm-news
+found 0 urls inside of https://www.themarker.com/srv/tm-news
+checked url in 0.2969 secounds
+Investigating: https://www.themarker.com/srv/tm-all-articles
+found 0 urls inside of https://www.themarker.com/srv/tm-all-articles
+checked url in 0.3110 secounds
+Finished round 3
+URL: https://www.themarker.com/, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/10most, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/misc/redemail, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/
+  - Internal URL: https://www.themarker.com/markets
+  - Internal URL: https://www.themarker.com/realestate
+  - Internal URL: https://www.themarker.com/technation
+  - Internal URL: https://www.themarker.com/consumer
+  - Internal URL: https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000
+  - Internal URL: https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000
+  - Internal URL: https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000
+  - Internal URL: https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000
+  - Internal URL: https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000
+  - Internal URL: https://www.themarker.com/ty-tag/0000017f-da2a-d432-a77f-df3b242b0000
+  - Internal URL: https://www.themarker.com/markets
+  - Internal URL: https://www.themarker.com/realestate
+  - Internal URL: https://www.themarker.com/news
+  - Internal URL: https://www.themarker.com/wallstreet
+  - Internal URL: https://www.themarker.com/labels/investment
+  - Internal URL: https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000
+  - Internal URL: https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000
+URL: https://www.themarker.com/misc/rss, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/srv/tm-markets
+  - Internal URL: https://www.themarker.com/srv/tm-global
+  - Internal URL: https://www.themarker.com/srv/tm-wallstreet
+  - Internal URL: https://www.themarker.com/srv/tm-real-estate
+  - Internal URL: https://www.themarker.com/srv/tm-consumer
+  - Internal URL: https://www.themarker.com/srv/tm-small-business
+  - Internal URL: https://www.themarker.com/srv/tm-technation
+  - Internal URL: https://www.themarker.com/srv/tm-ethan-avriel
+  - Internal URL: https://www.themarker.com/srv/tm-rolnik
+  - Internal URL: https://www.themarker.com/srv/tm-sami-peretz
+  - Internal URL: https://www.themarker.com/srv/tm-arlozorov
+  - Internal URL: https://www.themarker.com/srv/tm-opinions
+  - Internal URL: https://www.themarker.com/srv/tm-news
+  - Internal URL: https://www.themarker.com/srv/tm-all-articles
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/misc/contact-us, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html, Type: .html, Checked: True
+URL: https://www.themarker.com/misc/accessibility, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/markets, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/realestate, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/technation, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/consumer, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, Type: unknown url type, Checked: True
+  - Internal URL: mailto:?subject="עד שלא ירגיעו את החותים — הענף תקוע": קשיי היבוא מתחילים לגרום נזק&body=https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000
+  - Internal URL: https://www.themarker.com/ty-WRITER/00000186-4fbc-d0c2-afe6-cffc89a90000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000
+  - Internal URL: https://www.themarker.com/ty-WRITER/00000186-4fbc-d0c2-afe6-cffc89a90000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/
+  - Internal URL: https://www.themarker.com/career
+  - Internal URL: https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000
+  - Internal URL: mailto:?subject=יומיים במשרד, שאר השבוע בצבא: "סידרנו משמרות במילואים, וכך אני יכולה גם לעבוד"&body=https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000
+  - Internal URL: mailto:?subject=יומיים במשרד, שאר השבוע בצבא: "סידרנו משמרות במילואים, וכך אני יכולה גם לעבוד"&body=https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000
+  - Internal URL: https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/
+  - Internal URL: https://www.themarker.com/realestate
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000
+  - Internal URL: mailto:?subject=300 מיליון שקל לשיקום בתי המגורים בבארי: מהנדסים מספרים על היקף ההרס&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000
+  - Internal URL: mailto:?subject=300 מיליון שקל לשיקום בתי המגורים בבארי: מהנדסים מספרים על היקף ההרס&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/
+  - Internal URL: https://www.themarker.com/realestate
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000
+  - Internal URL: mailto:?subject=הדסה עין כרם חתם על עסקה שתכניס לו מיליארד שקל - אבל ראש העיר מתנגד&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000
+  - Internal URL: mailto:?subject=הדסה עין כרם חתם על עסקה שתכניס לו מיליארד שקל - אבל ראש העיר מתנגד&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/ty-tag/0000017f-da2a-d432-a77f-df3b242b0000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/news, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/wallstreet, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/labels/investment, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000, Type: unknown url type, Checked: True
+  - Internal URL: mailto:?subject=בילוי זוגי רומנטי: 7 רעיונות לחגיגה של אהבה&body=https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000
+  - Internal URL: https://www.themarker.com/labels
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/
+  - Internal URL: https://www.themarker.com/labels
+  - Internal URL: mailto:?subject=עורכי דין לדיני עבודה: עושים סדר בכל הקשור למשבר הקורונה&body=https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000
+  - Internal URL: mailto:?subject=עורכי דין לדיני עבודה: עושים סדר בכל הקשור למשבר הקורונה&body=https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000
+  - Internal URL: https://www.themarker.com/labels
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/srv/tm-markets, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-global, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-wallstreet, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-real-estate, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-consumer, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-small-business, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-technation, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-ethan-avriel, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-rolnik, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-sami-peretz, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-arlozorov, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-opinions, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-news, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-all-articles, Type: unknown url type, Checked: True
+Starting round 4
+Investigating: mailto:?subject="עד שלא ירגיעו את החותים — הענף תקוע": קשיי היבוא מתחילים לגרום נזק&body=https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000
+unexpected error scraping mailto:?subject="עד שלא ירגיעו את החותים — הענף תקוע": קשיי היבוא מתחילים לגרום נזק&body=https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, No connection adapters were found for 'mailto:?subject="עד שלא ירגיעו את החותים — הענף תקוע": קשיי היבוא מתחילים לגרום נזק&body=https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000'
+checked url in 0.0 secounds
+Investigating: https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000
+found 101 urls inside of https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 1.5790 secounds
+Investigating: https://www.themarker.com/ty-WRITER/00000186-4fbc-d0c2-afe6-cffc89a90000
+found 28 urls inside of https://www.themarker.com/ty-WRITER/00000186-4fbc-d0c2-afe6-cffc89a90000
+checked url in 0.4359 secounds
+Investigating: https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000
+found 101 urls inside of https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 1.0810 secounds
+Investigating: https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000
+found 101 urls inside of https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 2.2939 secounds
+Investigating: https://www.themarker.com/career
+found 98 urls inside of https://www.themarker.com/career
+url: https://www.themarker.com/10most is a sub url of https://www.themarker.com/career, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/career, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/career, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/career, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/career, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/career, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.375 secounds
+Investigating: https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000
+found 101 urls inside of https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 1.9560 secounds
+Investigating: mailto:?subject=יומיים במשרד, שאר השבוע בצבא: "סידרנו משמרות במילואים, וכך אני יכולה גם לעבוד"&body=https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000
+unexpected error scraping mailto:?subject=יומיים במשרד, שאר השבוע בצבא: "סידרנו משמרות במילואים, וכך אני יכולה גם לעבוד"&body=https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000, No connection adapters were found for 'mailto:?subject=יומיים במשרד, שאר השבוע בצבא: "סידרנו משמרות במילואים, וכך אני יכולה גם לעבוד"&body=https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000'
+checked url in 0.0010 secounds
+Investigating: https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000
+found 101 urls inside of https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 1.0509 secounds
+Investigating: mailto:?subject=300 מיליון שקל לשיקום בתי המגורים בבארי: מהנדסים מספרים על היקף ההרס&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000
+unexpected error scraping mailto:?subject=300 מיליון שקל לשיקום בתי המגורים בבארי: מהנדסים מספרים על היקף ההרס&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000, No connection adapters were found for 'mailto:?subject=300 מיליון שקל לשיקום בתי המגורים בבארי: מהנדסים מספרים על היקף ההרס&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000'
+checked url in 0.0 secounds
+Investigating: https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000
+found 101 urls inside of https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 2.5240 secounds
+Investigating: mailto:?subject=הדסה עין כרם חתם על עסקה שתכניס לו מיליארד שקל - אבל ראש העיר מתנגד&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000
+unexpected error scraping mailto:?subject=הדסה עין כרם חתם על עסקה שתכניס לו מיליארד שקל - אבל ראש העיר מתנגד&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000, No connection adapters were found for 'mailto:?subject=הדסה עין כרם חתם על עסקה שתכניס לו מיליארד שקל - אבל ראש העיר מתנגד&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000'
+checked url in 0.0 secounds
+Investigating: mailto:?subject=בילוי זוגי רומנטי: 7 רעיונות לחגיגה של אהבה&body=https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000
+unexpected error scraping mailto:?subject=בילוי זוגי רומנטי: 7 רעיונות לחגיגה של אהבה&body=https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000, No connection adapters were found for 'mailto:?subject=בילוי זוגי רומנטי: 7 רעיונות לחגיגה של אהבה&body=https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000'
+checked url in 0.0010 secounds
+Investigating: https://www.themarker.com/labels
+found 155 urls inside of https://www.themarker.com/labels
+url: https://www.themarker.com/10most is a sub url of https://www.themarker.com/labels, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/redemail is a sub url of https://www.themarker.com/labels, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/rss is a sub url of https://www.themarker.com/labels, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/contact-us is a sub url of https://www.themarker.com/labels, its type is unknown url type, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html is a sub url of https://www.themarker.com/labels, its type is .html, checked: False, its internal urls:
+ 
+url: https://www.themarker.com/misc/accessibility is a sub url of https://www.themarker.com/labels, its type is unknown url type, checked: False, its internal urls:
+ 
+checked url in 0.6179 secounds
+Investigating: mailto:?subject=עורכי דין לדיני עבודה: עושים סדר בכל הקשור למשבר הקורונה&body=https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000
+unexpected error scraping mailto:?subject=עורכי דין לדיני עבודה: עושים סדר בכל הקשור למשבר הקורונה&body=https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000, No connection adapters were found for 'mailto:?subject=עורכי דין לדיני עבודה: עושים סדר בכל הקשור למשבר הקורונה&body=https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000'
+checked url in 0.0 secounds
+Finished round 4
+URL: https://www.themarker.com/, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/10most, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/misc/redemail, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/
+  - Internal URL: https://www.themarker.com/markets
+  - Internal URL: https://www.themarker.com/realestate
+  - Internal URL: https://www.themarker.com/technation
+  - Internal URL: https://www.themarker.com/consumer
+  - Internal URL: https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000
+  - Internal URL: https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000
+  - Internal URL: https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000
+  - Internal URL: https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000
+  - Internal URL: https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000
+  - Internal URL: https://www.themarker.com/ty-tag/0000017f-da2a-d432-a77f-df3b242b0000
+  - Internal URL: https://www.themarker.com/markets
+  - Internal URL: https://www.themarker.com/realestate
+  - Internal URL: https://www.themarker.com/news
+  - Internal URL: https://www.themarker.com/wallstreet
+  - Internal URL: https://www.themarker.com/labels/investment
+  - Internal URL: https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000
+  - Internal URL: https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000
+URL: https://www.themarker.com/misc/rss, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/srv/tm-markets
+  - Internal URL: https://www.themarker.com/srv/tm-global
+  - Internal URL: https://www.themarker.com/srv/tm-wallstreet
+  - Internal URL: https://www.themarker.com/srv/tm-real-estate
+  - Internal URL: https://www.themarker.com/srv/tm-consumer
+  - Internal URL: https://www.themarker.com/srv/tm-small-business
+  - Internal URL: https://www.themarker.com/srv/tm-technation
+  - Internal URL: https://www.themarker.com/srv/tm-ethan-avriel
+  - Internal URL: https://www.themarker.com/srv/tm-rolnik
+  - Internal URL: https://www.themarker.com/srv/tm-sami-peretz
+  - Internal URL: https://www.themarker.com/srv/tm-arlozorov
+  - Internal URL: https://www.themarker.com/srv/tm-opinions
+  - Internal URL: https://www.themarker.com/srv/tm-news
+  - Internal URL: https://www.themarker.com/srv/tm-all-articles
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/misc/contact-us, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html, Type: .html, Checked: True
+URL: https://www.themarker.com/misc/accessibility, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/markets, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/realestate, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/technation, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/consumer, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, Type: unknown url type, Checked: True
+  - Internal URL: mailto:?subject="עד שלא ירגיעו את החותים — הענף תקוע": קשיי היבוא מתחילים לגרום נזק&body=https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000
+  - Internal URL: https://www.themarker.com/ty-WRITER/00000186-4fbc-d0c2-afe6-cffc89a90000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000
+  - Internal URL: https://www.themarker.com/ty-WRITER/00000186-4fbc-d0c2-afe6-cffc89a90000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/
+  - Internal URL: https://www.themarker.com/career
+  - Internal URL: https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000
+  - Internal URL: mailto:?subject=יומיים במשרד, שאר השבוע בצבא: "סידרנו משמרות במילואים, וכך אני יכולה גם לעבוד"&body=https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000
+  - Internal URL: mailto:?subject=יומיים במשרד, שאר השבוע בצבא: "סידרנו משמרות במילואים, וכך אני יכולה גם לעבוד"&body=https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000
+  - Internal URL: https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/
+  - Internal URL: https://www.themarker.com/realestate
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000
+  - Internal URL: mailto:?subject=300 מיליון שקל לשיקום בתי המגורים בבארי: מהנדסים מספרים על היקף ההרס&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000
+  - Internal URL: mailto:?subject=300 מיליון שקל לשיקום בתי המגורים בבארי: מהנדסים מספרים על היקף ההרס&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/
+  - Internal URL: https://www.themarker.com/realestate
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000
+  - Internal URL: mailto:?subject=הדסה עין כרם חתם על עסקה שתכניס לו מיליארד שקל - אבל ראש העיר מתנגד&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000
+  - Internal URL: mailto:?subject=הדסה עין כרם חתם על עסקה שתכניס לו מיליארד שקל - אבל ראש העיר מתנגד&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/ty-tag/0000017f-da2a-d432-a77f-df3b242b0000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/news, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/wallstreet, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/labels/investment, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000, Type: unknown url type, Checked: True
+  - Internal URL: mailto:?subject=בילוי זוגי רומנטי: 7 רעיונות לחגיגה של אהבה&body=https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000
+  - Internal URL: https://www.themarker.com/labels
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/
+  - Internal URL: https://www.themarker.com/labels
+  - Internal URL: mailto:?subject=עורכי דין לדיני עבודה: עושים סדר בכל הקשור למשבר הקורונה&body=https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000
+  - Internal URL: mailto:?subject=עורכי דין לדיני עבודה: עושים סדר בכל הקשור למשבר הקורונה&body=https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000
+  - Internal URL: https://www.themarker.com/labels
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/srv/tm-markets, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-global, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-wallstreet, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-real-estate, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-consumer, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-small-business, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-technation, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-ethan-avriel, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-rolnik, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-sami-peretz, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-arlozorov, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-opinions, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-news, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-all-articles, Type: unknown url type, Checked: True
+URL: mailto:?subject="עד שלא ירגיעו את החותים — הענף תקוע": קשיי היבוא מתחילים לגרום נזק&body=https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, Type: unknown url type, Checked: False
+URL: https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/ty-WRITER/00000186-4fbc-d0c2-afe6-cffc89a90000, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/career, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: mailto:?subject=יומיים במשרד, שאר השבוע בצבא: "סידרנו משמרות במילואים, וכך אני יכולה גם לעבוד"&body=https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000, Type: unknown url type, Checked: False
+URL: https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: mailto:?subject=300 מיליון שקל לשיקום בתי המגורים בבארי: מהנדסים מספרים על היקף ההרס&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000, Type: unknown url type, Checked: False
+URL: https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: mailto:?subject=הדסה עין כרם חתם על עסקה שתכניס לו מיליארד שקל - אבל ראש העיר מתנגד&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000, Type: unknown url type, Checked: False
+URL: mailto:?subject=בילוי זוגי רומנטי: 7 רעיונות לחגיגה של אהבה&body=https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000, Type: unknown url type, Checked: False
+URL: https://www.themarker.com/labels, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: mailto:?subject=עורכי דין לדיני עבודה: עושים סדר בכל הקשור למשבר הקורונה&body=https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000, Type: unknown url type, Checked: False
+Starting round 5
+Finished round 5
+URL: https://www.themarker.com/, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/10most, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/misc/redemail, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/
+  - Internal URL: https://www.themarker.com/markets
+  - Internal URL: https://www.themarker.com/realestate
+  - Internal URL: https://www.themarker.com/technation
+  - Internal URL: https://www.themarker.com/consumer
+  - Internal URL: https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000
+  - Internal URL: https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000
+  - Internal URL: https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000
+  - Internal URL: https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000
+  - Internal URL: https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000
+  - Internal URL: https://www.themarker.com/ty-tag/0000017f-da2a-d432-a77f-df3b242b0000
+  - Internal URL: https://www.themarker.com/markets
+  - Internal URL: https://www.themarker.com/realestate
+  - Internal URL: https://www.themarker.com/news
+  - Internal URL: https://www.themarker.com/wallstreet
+  - Internal URL: https://www.themarker.com/labels/investment
+  - Internal URL: https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000
+  - Internal URL: https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000
+URL: https://www.themarker.com/misc/rss, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/srv/tm-markets
+  - Internal URL: https://www.themarker.com/srv/tm-global
+  - Internal URL: https://www.themarker.com/srv/tm-wallstreet
+  - Internal URL: https://www.themarker.com/srv/tm-real-estate
+  - Internal URL: https://www.themarker.com/srv/tm-consumer
+  - Internal URL: https://www.themarker.com/srv/tm-small-business
+  - Internal URL: https://www.themarker.com/srv/tm-technation
+  - Internal URL: https://www.themarker.com/srv/tm-ethan-avriel
+  - Internal URL: https://www.themarker.com/srv/tm-rolnik
+  - Internal URL: https://www.themarker.com/srv/tm-sami-peretz
+  - Internal URL: https://www.themarker.com/srv/tm-arlozorov
+  - Internal URL: https://www.themarker.com/srv/tm-opinions
+  - Internal URL: https://www.themarker.com/srv/tm-news
+  - Internal URL: https://www.themarker.com/srv/tm-all-articles
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/misc/contact-us, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html, Type: .html, Checked: True
+URL: https://www.themarker.com/misc/accessibility, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/markets, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/realestate, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/technation, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/consumer, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, Type: unknown url type, Checked: True
+  - Internal URL: mailto:?subject="עד שלא ירגיעו את החותים — הענף תקוע": קשיי היבוא מתחילים לגרום נזק&body=https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000
+  - Internal URL: https://www.themarker.com/ty-WRITER/00000186-4fbc-d0c2-afe6-cffc89a90000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000
+  - Internal URL: https://www.themarker.com/ty-WRITER/00000186-4fbc-d0c2-afe6-cffc89a90000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/
+  - Internal URL: https://www.themarker.com/career
+  - Internal URL: https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000
+  - Internal URL: mailto:?subject=יומיים במשרד, שאר השבוע בצבא: "סידרנו משמרות במילואים, וכך אני יכולה גם לעבוד"&body=https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000
+  - Internal URL: mailto:?subject=יומיים במשרד, שאר השבוע בצבא: "סידרנו משמרות במילואים, וכך אני יכולה גם לעבוד"&body=https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000
+  - Internal URL: https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/
+  - Internal URL: https://www.themarker.com/realestate
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000
+  - Internal URL: mailto:?subject=300 מיליון שקל לשיקום בתי המגורים בבארי: מהנדסים מספרים על היקף ההרס&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000
+  - Internal URL: mailto:?subject=300 מיליון שקל לשיקום בתי המגורים בבארי: מהנדסים מספרים על היקף ההרס&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/
+  - Internal URL: https://www.themarker.com/realestate
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000
+  - Internal URL: mailto:?subject=הדסה עין כרם חתם על עסקה שתכניס לו מיליארד שקל - אבל ראש העיר מתנגד&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000
+  - Internal URL: mailto:?subject=הדסה עין כרם חתם על עסקה שתכניס לו מיליארד שקל - אבל ראש העיר מתנגד&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000
+  - Internal URL: https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/ty-tag/0000017f-da2a-d432-a77f-df3b242b0000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/news, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/wallstreet, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/labels/investment, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000, Type: unknown url type, Checked: True
+  - Internal URL: mailto:?subject=בילוי זוגי רומנטי: 7 רעיונות לחגיגה של אהבה&body=https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000
+  - Internal URL: https://www.themarker.com/labels
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/
+  - Internal URL: https://www.themarker.com/labels
+  - Internal URL: mailto:?subject=עורכי דין לדיני עבודה: עושים סדר בכל הקשור למשבר הקורונה&body=https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000
+  - Internal URL: mailto:?subject=עורכי דין לדיני עבודה: עושים סדר בכל הקשור למשבר הקורונה&body=https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000
+  - Internal URL: https://www.themarker.com/labels
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/srv/tm-markets, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-global, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-wallstreet, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-real-estate, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-consumer, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-small-business, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-technation, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-ethan-avriel, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-rolnik, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-sami-peretz, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-arlozorov, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-opinions, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-news, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/srv/tm-all-articles, Type: unknown url type, Checked: True
+URL: mailto:?subject="עד שלא ירגיעו את החותים — הענף תקוע": קשיי היבוא מתחילים לגרום נזק&body=https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000, Type: unknown url type, Checked: False
+URL: https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/ty-WRITER/00000186-4fbc-d0c2-afe6-cffc89a90000, Type: unknown url type, Checked: True
+URL: https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/career, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: mailto:?subject=יומיים במשרד, שאר השבוע בצבא: "סידרנו משמרות במילואים, וכך אני יכולה גם לעבוד"&body=https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000, Type: unknown url type, Checked: False
+URL: https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: mailto:?subject=300 מיליון שקל לשיקום בתי המגורים בבארי: מהנדסים מספרים על היקף ההרס&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000, Type: unknown url type, Checked: False
+URL: https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: mailto:?subject=הדסה עין כרם חתם על עסקה שתכניס לו מיליארד שקל - אבל ראש העיר מתנגד&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000, Type: unknown url type, Checked: False
+URL: mailto:?subject=בילוי זוגי רומנטי: 7 רעיונות לחגיגה של אהבה&body=https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000, Type: unknown url type, Checked: False
+URL: https://www.themarker.com/labels, Type: unknown url type, Checked: True
+  - Internal URL: https://www.themarker.com/10most
+  - Internal URL: https://www.themarker.com/misc/redemail
+  - Internal URL: https://www.themarker.com/misc/rss
+  - Internal URL: https://www.themarker.com/misc/contact-us
+  - Internal URL: https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html
+  - Internal URL: https://www.themarker.com/misc/accessibility
+URL: mailto:?subject=עורכי דין לדיני עבודה: עושים סדר בכל הקשור למשבר הקורונה&body=https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000, Type: unknown url type, Checked: False
+
+Process finished with exit code 0
 
