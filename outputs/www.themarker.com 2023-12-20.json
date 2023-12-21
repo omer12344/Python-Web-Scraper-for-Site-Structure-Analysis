@@ -1,0 +1,495 @@
+{
+    "https://www.themarker.com/": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/10most",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/10most": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/10most",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/misc/redemail": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/",
+            "https://www.themarker.com/markets",
+            "https://www.themarker.com/realestate",
+            "https://www.themarker.com/technation",
+            "https://www.themarker.com/consumer",
+            "https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000",
+            "https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000",
+            "https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000",
+            "https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000",
+            "https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000",
+            "https://www.themarker.com/ty-tag/0000017f-da2a-d432-a77f-df3b242b0000",
+            "https://www.themarker.com/markets",
+            "https://www.themarker.com/realestate",
+            "https://www.themarker.com/news",
+            "https://www.themarker.com/wallstreet",
+            "https://www.themarker.com/labels/investment",
+            "https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000",
+            "https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/misc/rss": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/10most",
+            "https://www.themarker.com/srv/tm-markets",
+            "https://www.themarker.com/srv/tm-global",
+            "https://www.themarker.com/srv/tm-wallstreet",
+            "https://www.themarker.com/srv/tm-real-estate",
+            "https://www.themarker.com/srv/tm-consumer",
+            "https://www.themarker.com/srv/tm-small-business",
+            "https://www.themarker.com/srv/tm-technation",
+            "https://www.themarker.com/srv/tm-ethan-avriel",
+            "https://www.themarker.com/srv/tm-rolnik",
+            "https://www.themarker.com/srv/tm-sami-peretz",
+            "https://www.themarker.com/srv/tm-arlozorov",
+            "https://www.themarker.com/srv/tm-opinions",
+            "https://www.themarker.com/srv/tm-news",
+            "https://www.themarker.com/srv/tm-all-articles",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/misc/contact-us": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html": {
+        "type": ".html",
+        "internal_urls": [],
+        "checked": true
+    },
+    "https://www.themarker.com/misc/accessibility": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/10most",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/markets": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/10most",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/realestate": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/10most",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/technation": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/10most",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/consumer": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/10most",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "mailto:?subject=\"\u05e2\u05d3 \u05e9\u05dc\u05d0 \u05d9\u05e8\u05d2\u05d9\u05e2\u05d5 \u05d0\u05ea \u05d4\u05d7\u05d5\u05ea\u05d9\u05dd \u2014 \u05d4\u05e2\u05e0\u05e3 \u05ea\u05e7\u05d5\u05e2\": \u05e7\u05e9\u05d9\u05d9 \u05d4\u05d9\u05d1\u05d5\u05d0 \u05de\u05ea\u05d7\u05d9\u05dc\u05d9\u05dd \u05dc\u05d2\u05e8\u05d5\u05dd \u05e0\u05d6\u05e7&body=https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000",
+            "https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000",
+            "https://www.themarker.com/ty-WRITER/00000186-4fbc-d0c2-afe6-cffc89a90000",
+            "https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000",
+            "https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000",
+            "https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000",
+            "https://www.themarker.com/ty-WRITER/00000186-4fbc-d0c2-afe6-cffc89a90000",
+            "https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000",
+            "https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/",
+            "https://www.themarker.com/career",
+            "https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000",
+            "mailto:?subject=\u05d9\u05d5\u05de\u05d9\u05d9\u05dd \u05d1\u05de\u05e9\u05e8\u05d3, \u05e9\u05d0\u05e8 \u05d4\u05e9\u05d1\u05d5\u05e2 \u05d1\u05e6\u05d1\u05d0: \"\u05e1\u05d9\u05d3\u05e8\u05e0\u05d5 \u05de\u05e9\u05de\u05e8\u05d5\u05ea \u05d1\u05de\u05d9\u05dc\u05d5\u05d0\u05d9\u05dd, \u05d5\u05db\u05da \u05d0\u05e0\u05d9 \u05d9\u05db\u05d5\u05dc\u05d4 \u05d2\u05dd \u05dc\u05e2\u05d1\u05d5\u05d3\"&body=https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000",
+            "mailto:?subject=\u05d9\u05d5\u05de\u05d9\u05d9\u05dd \u05d1\u05de\u05e9\u05e8\u05d3, \u05e9\u05d0\u05e8 \u05d4\u05e9\u05d1\u05d5\u05e2 \u05d1\u05e6\u05d1\u05d0: \"\u05e1\u05d9\u05d3\u05e8\u05e0\u05d5 \u05de\u05e9\u05de\u05e8\u05d5\u05ea \u05d1\u05de\u05d9\u05dc\u05d5\u05d0\u05d9\u05dd, \u05d5\u05db\u05da \u05d0\u05e0\u05d9 \u05d9\u05db\u05d5\u05dc\u05d4 \u05d2\u05dd \u05dc\u05e2\u05d1\u05d5\u05d3\"&body=https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000",
+            "https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/",
+            "https://www.themarker.com/realestate",
+            "https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000",
+            "mailto:?subject=300 \u05de\u05d9\u05dc\u05d9\u05d5\u05df \u05e9\u05e7\u05dc \u05dc\u05e9\u05d9\u05e7\u05d5\u05dd \u05d1\u05ea\u05d9 \u05d4\u05de\u05d2\u05d5\u05e8\u05d9\u05dd \u05d1\u05d1\u05d0\u05e8\u05d9: \u05de\u05d4\u05e0\u05d3\u05e1\u05d9\u05dd \u05de\u05e1\u05e4\u05e8\u05d9\u05dd \u05e2\u05dc \u05d4\u05d9\u05e7\u05e3 \u05d4\u05d4\u05e8\u05e1&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000",
+            "mailto:?subject=300 \u05de\u05d9\u05dc\u05d9\u05d5\u05df \u05e9\u05e7\u05dc \u05dc\u05e9\u05d9\u05e7\u05d5\u05dd \u05d1\u05ea\u05d9 \u05d4\u05de\u05d2\u05d5\u05e8\u05d9\u05dd \u05d1\u05d1\u05d0\u05e8\u05d9: \u05de\u05d4\u05e0\u05d3\u05e1\u05d9\u05dd \u05de\u05e1\u05e4\u05e8\u05d9\u05dd \u05e2\u05dc \u05d4\u05d9\u05e7\u05e3 \u05d4\u05d4\u05e8\u05e1&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000",
+            "https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/",
+            "https://www.themarker.com/realestate",
+            "https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000",
+            "mailto:?subject=\u05d4\u05d3\u05e1\u05d4 \u05e2\u05d9\u05df \u05db\u05e8\u05dd \u05d7\u05ea\u05dd \u05e2\u05dc \u05e2\u05e1\u05e7\u05d4 \u05e9\u05ea\u05db\u05e0\u05d9\u05e1 \u05dc\u05d5 \u05de\u05d9\u05dc\u05d9\u05d0\u05e8\u05d3 \u05e9\u05e7\u05dc - \u05d0\u05d1\u05dc \u05e8\u05d0\u05e9 \u05d4\u05e2\u05d9\u05e8 \u05de\u05ea\u05e0\u05d2\u05d3&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000",
+            "mailto:?subject=\u05d4\u05d3\u05e1\u05d4 \u05e2\u05d9\u05df \u05db\u05e8\u05dd \u05d7\u05ea\u05dd \u05e2\u05dc \u05e2\u05e1\u05e7\u05d4 \u05e9\u05ea\u05db\u05e0\u05d9\u05e1 \u05dc\u05d5 \u05de\u05d9\u05dc\u05d9\u05d0\u05e8\u05d3 \u05e9\u05e7\u05dc - \u05d0\u05d1\u05dc \u05e8\u05d0\u05e9 \u05d4\u05e2\u05d9\u05e8 \u05de\u05ea\u05e0\u05d2\u05d3&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000",
+            "https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/ty-tag/0000017f-da2a-d432-a77f-df3b242b0000": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/news": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/10most",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/wallstreet": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/10most",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/labels/investment": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/10most",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "mailto:?subject=\u05d1\u05d9\u05dc\u05d5\u05d9 \u05d6\u05d5\u05d2\u05d9 \u05e8\u05d5\u05de\u05e0\u05d8\u05d9: 7 \u05e8\u05e2\u05d9\u05d5\u05e0\u05d5\u05ea \u05dc\u05d7\u05d2\u05d9\u05d2\u05d4 \u05e9\u05dc \u05d0\u05d4\u05d1\u05d4&body=https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000",
+            "https://www.themarker.com/labels",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/",
+            "https://www.themarker.com/labels",
+            "mailto:?subject=\u05e2\u05d5\u05e8\u05db\u05d9 \u05d3\u05d9\u05df \u05dc\u05d3\u05d9\u05e0\u05d9 \u05e2\u05d1\u05d5\u05d3\u05d4: \u05e2\u05d5\u05e9\u05d9\u05dd \u05e1\u05d3\u05e8 \u05d1\u05db\u05dc \u05d4\u05e7\u05e9\u05d5\u05e8 \u05dc\u05de\u05e9\u05d1\u05e8 \u05d4\u05e7\u05d5\u05e8\u05d5\u05e0\u05d4&body=https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000",
+            "mailto:?subject=\u05e2\u05d5\u05e8\u05db\u05d9 \u05d3\u05d9\u05df \u05dc\u05d3\u05d9\u05e0\u05d9 \u05e2\u05d1\u05d5\u05d3\u05d4: \u05e2\u05d5\u05e9\u05d9\u05dd \u05e1\u05d3\u05e8 \u05d1\u05db\u05dc \u05d4\u05e7\u05e9\u05d5\u05e8 \u05dc\u05de\u05e9\u05d1\u05e8 \u05d4\u05e7\u05d5\u05e8\u05d5\u05e0\u05d4&body=https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000",
+            "https://www.themarker.com/labels",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/srv/tm-markets": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": true
+    },
+    "https://www.themarker.com/srv/tm-global": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": true
+    },
+    "https://www.themarker.com/srv/tm-wallstreet": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": true
+    },
+    "https://www.themarker.com/srv/tm-real-estate": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": true
+    },
+    "https://www.themarker.com/srv/tm-consumer": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": true
+    },
+    "https://www.themarker.com/srv/tm-small-business": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": true
+    },
+    "https://www.themarker.com/srv/tm-technation": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": true
+    },
+    "https://www.themarker.com/srv/tm-ethan-avriel": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": true
+    },
+    "https://www.themarker.com/srv/tm-rolnik": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": true
+    },
+    "https://www.themarker.com/srv/tm-sami-peretz": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": true
+    },
+    "https://www.themarker.com/srv/tm-arlozorov": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": true
+    },
+    "https://www.themarker.com/srv/tm-opinions": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": true
+    },
+    "https://www.themarker.com/srv/tm-news": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": true
+    },
+    "https://www.themarker.com/srv/tm-all-articles": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": true
+    },
+    "mailto:?subject=\"\u05e2\u05d3 \u05e9\u05dc\u05d0 \u05d9\u05e8\u05d2\u05d9\u05e2\u05d5 \u05d0\u05ea \u05d4\u05d7\u05d5\u05ea\u05d9\u05dd \u2014 \u05d4\u05e2\u05e0\u05e3 \u05ea\u05e7\u05d5\u05e2\": \u05e7\u05e9\u05d9\u05d9 \u05d4\u05d9\u05d1\u05d5\u05d0 \u05de\u05ea\u05d7\u05d9\u05dc\u05d9\u05dd \u05dc\u05d2\u05e8\u05d5\u05dd \u05e0\u05d6\u05e7&body=https://www.themarker.com/allnews/2023-12-20/ty-article-magazine/.premium/0000018c-835d-d219-a5bf-b7fde9aa0000": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": false
+    },
+    "https://www.themarker.com/ty-WRITER/0000017f-da2c-d249-ab7f-fbec1ca80000": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/ty-WRITER/00000186-4fbc-d0c2-afe6-cffc89a90000": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": true
+    },
+    "https://www.themarker.com/ty-WRITER/0000017f-da2c-d494-a17f-de2fc24f0000": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/ty-WRITER/0000017f-da31-d938-a17f-fe3b26af0000": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/career": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/10most",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "https://www.themarker.com/ty-WRITER/00000181-761e-d292-addb-fe5ff5720000": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "mailto:?subject=\u05d9\u05d5\u05de\u05d9\u05d9\u05dd \u05d1\u05de\u05e9\u05e8\u05d3, \u05e9\u05d0\u05e8 \u05d4\u05e9\u05d1\u05d5\u05e2 \u05d1\u05e6\u05d1\u05d0: \"\u05e1\u05d9\u05d3\u05e8\u05e0\u05d5 \u05de\u05e9\u05de\u05e8\u05d5\u05ea \u05d1\u05de\u05d9\u05dc\u05d5\u05d0\u05d9\u05dd, \u05d5\u05db\u05da \u05d0\u05e0\u05d9 \u05d9\u05db\u05d5\u05dc\u05d4 \u05d2\u05dd \u05dc\u05e2\u05d1\u05d5\u05d3\"&body=https://www.themarker.com/career/2023-12-20/ty-article/.premium/0000018c-80f6-db89-ad8f-f2fe8bf00000": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": false
+    },
+    "https://www.themarker.com/ty-WRITER/0000017f-da5a-d42c-afff-dffa67e40000": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "mailto:?subject=300 \u05de\u05d9\u05dc\u05d9\u05d5\u05df \u05e9\u05e7\u05dc \u05dc\u05e9\u05d9\u05e7\u05d5\u05dd \u05d1\u05ea\u05d9 \u05d4\u05de\u05d2\u05d5\u05e8\u05d9\u05dd \u05d1\u05d1\u05d0\u05e8\u05d9: \u05de\u05d4\u05e0\u05d3\u05e1\u05d9\u05dd \u05de\u05e1\u05e4\u05e8\u05d9\u05dd \u05e2\u05dc \u05d4\u05d9\u05e7\u05e3 \u05d4\u05d4\u05e8\u05e1&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8355-d301-a3ac-87d573290000": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": false
+    },
+    "https://www.themarker.com/ty-WRITER/0000017f-da34-d938-a17f-fe3e636e0000": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "mailto:?subject=\u05d4\u05d3\u05e1\u05d4 \u05e2\u05d9\u05df \u05db\u05e8\u05dd \u05d7\u05ea\u05dd \u05e2\u05dc \u05e2\u05e1\u05e7\u05d4 \u05e9\u05ea\u05db\u05e0\u05d9\u05e1 \u05dc\u05d5 \u05de\u05d9\u05dc\u05d9\u05d0\u05e8\u05d3 \u05e9\u05e7\u05dc - \u05d0\u05d1\u05dc \u05e8\u05d0\u05e9 \u05d4\u05e2\u05d9\u05e8 \u05de\u05ea\u05e0\u05d2\u05d3&body=https://www.themarker.com/realestate/2023-12-20/ty-article/.premium/0000018c-8670-d219-a5bf-b7f8e2c80000": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": false
+    },
+    "mailto:?subject=\u05d1\u05d9\u05dc\u05d5\u05d9 \u05d6\u05d5\u05d2\u05d9 \u05e8\u05d5\u05de\u05e0\u05d8\u05d9: 7 \u05e8\u05e2\u05d9\u05d5\u05e0\u05d5\u05ea \u05dc\u05d7\u05d2\u05d9\u05d2\u05d4 \u05e9\u05dc \u05d0\u05d4\u05d1\u05d4&body=https://www.themarker.com/labels/2020-01-26/ty-article-labels-m/0000017f-f893-d460-afff-fbf736020000": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": false
+    },
+    "https://www.themarker.com/labels": {
+        "type": "unknown url type",
+        "internal_urls": [
+            "https://www.themarker.com/10most",
+            "https://www.themarker.com/misc/redemail",
+            "https://www.themarker.com/misc/rss",
+            "https://www.themarker.com/misc/contact-us",
+            "https://www.themarker.com/st/c/prod/global/mediaKit/haaretzHeb.html",
+            "https://www.themarker.com/misc/accessibility"
+        ],
+        "checked": true
+    },
+    "mailto:?subject=\u05e2\u05d5\u05e8\u05db\u05d9 \u05d3\u05d9\u05df \u05dc\u05d3\u05d9\u05e0\u05d9 \u05e2\u05d1\u05d5\u05d3\u05d4: \u05e2\u05d5\u05e9\u05d9\u05dd \u05e1\u05d3\u05e8 \u05d1\u05db\u05dc \u05d4\u05e7\u05e9\u05d5\u05e8 \u05dc\u05de\u05e9\u05d1\u05e8 \u05d4\u05e7\u05d5\u05e8\u05d5\u05e0\u05d4&body=https://www.themarker.com/labels/2020-03-22/ty-article-labels/0000017f-f88c-d887-a7ff-f8ec518d0000": {
+        "type": "unknown url type",
+        "internal_urls": [],
+        "checked": false
+    }
+}
