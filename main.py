@@ -122,7 +122,7 @@ def main() -> dict:
     """
     global url_to_scrape
     print("Scrapper running....")
-    url_to_scrape = "https://www.themarker.com/"
+    url_to_scrape = input("Please insert here the URL you want to scrape: ")
     url_to_scrape = Url(UrlType.val_to_type(url_to_scrape), None, url_to_scrape, [])
     database_dict = {}  # Key: URL string, Value: Dict of URL details
 
